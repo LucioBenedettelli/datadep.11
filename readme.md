@@ -1,4 +1,4 @@
-# # Proyecto de prueba de BigQuery para Ingeniería de Datos
+# Proyecto de prueba de BigQuery para Ingeniería de Datos
 
 # Descripción
 
